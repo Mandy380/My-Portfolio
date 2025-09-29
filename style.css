@@ -7,7 +7,7 @@
 body { 
   font-family: Arial, sans-serif; 
   line-height: 1.6; 
-  color: #74EDE9; 
+  color: #000000; 
 }
 
 .header { 
@@ -41,7 +41,7 @@ body {
 .hero {
   text-align: center; 
   padding: 4rem 2rem; 
-  background: linear-gradient(to right, #FC466B, #9BEBDC); 
+  background: linear-gradient(to right, #F7F7F7, #84E6F5, #1594CF); 
   color: #fff; 
 }
 
