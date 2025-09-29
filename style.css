@@ -60,7 +60,7 @@ body {
 
 .btn { padding: 0.7rem 1.2rem; 
       border: none; 
-      background: #FC46E7; 
+      background: #fff; 
       color: #0077ff; 
       text-decoration: none; 
       font-weight: bold; 
@@ -95,12 +95,13 @@ body {
 }
 
 .gray {
-  background: #f4f4f4; 
+  background: #FC46E7; 
 }
 
 .skills {
   display: flex;
-  flex-wrap: wrap; gap: 0.5rem;
+  flex-wrap: wrap; 
+  gap: 0.5rem;
   justify-content: center; 
 }
 
