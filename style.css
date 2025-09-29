@@ -80,7 +80,7 @@ body {
 }
 
 .wrapper {
-  background: url("logo.png") no-repeat center center;
+  background: url("images/logo.png") no-repeat center center;
   background-size: cover;
   position: relative;
   color: #fff; 
@@ -109,11 +109,13 @@ body {
   font-size: 1.8rem;
   margin-bottom: 1rem;
   text-align: center; 
+  color: #2E2C2C;
 }
 
 .section p {
   text-align: center;
   margin-bottom: 1rem;
+  color: #2E2C2C;
 }
 
 .gray {
