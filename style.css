@@ -39,13 +39,11 @@ body {
 }
 
 .hero {
-  text-align: center;
-  padding: 6rem 2rem;
-  background: url("images/logo.png") no-repeat center center/cover;
+  text-align: center; 
+  padding: 4rem 2rem;
+  background: linear-gradient(to right, #FFFFFF, #FC46E7);
   color: #fff;
-  position: relative;
 }
-
 
 .hero h2 { 
   font-size: 2rem;
@@ -62,7 +60,7 @@ body {
 
 .btn { padding: 0.7rem 1.2rem; 
       border: none; 
-      background: #fff; 
+      background: #FC46E7; 
       color: #0077ff; 
       text-decoration: none; 
       font-weight: bold; 
