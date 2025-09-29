@@ -39,11 +39,13 @@ body {
 }
 
 .hero {
-  text-align: center; 
-  padding: 4rem 2rem; 
-  background: linear-gradient(to right, #F7F7F7, #84E6F5, #1594CF); 
-  color: #fff; 
+  text-align: center;
+  padding: 6rem 2rem;
+  background: url("your-image.jpg") no-repeat center center/cover;
+  color: #fff;
+  position: relative;
 }
+
 
 .hero h2 { 
   font-size: 2rem;
