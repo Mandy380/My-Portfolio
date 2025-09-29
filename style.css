@@ -108,11 +108,11 @@ body {
   max-width: 900px; 
   margin: auto; 
 }
-.section h4 { 
+.section h3 { 
   font-size: 1.8rem;
   margin-bottom: 1rem;
   text-align: center; 
-  color: #2E2C2C;
+  color: #000000;
 }
 
 .section p {
